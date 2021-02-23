@@ -1,6 +1,6 @@
 [![FEZ](https://img.shields.io/badge/FEZ-contributor-brightgreen)](https://github.com/FEZ-Finite-Element-Zurich)
 
-# CT_to_FEA_Workflows
+# CT and FEA_Workflows
 A collection of guides and workflows associated with model preparation and Finite Element Analysis.  Open source, or at least freely available software is preferred.
 
 The guides here have been previously posted on my website: https://peterfalkingham.com 
@@ -10,6 +10,7 @@ The guides here have been previously posted on my website: https://peterfalkingh
 ## [CT Scan to 3D Print in 15 minutes](https://github.com/pfalkingham/CT_to_FEA_Workflows/blob/main/CTScan_To_3d_Print.md)
 
 ## [A Free/Opensource workflow from CT scan to FEA](https://github.com/pfalkingham/CT_to_FEA_Workflows/blob/main/CT_to_FEA_free.md)
+
 
 # Useful links:
 
