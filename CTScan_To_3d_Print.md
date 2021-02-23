@@ -1,10 +1,10 @@
 # CT data to 3D print in 15 minutes using free software
 
-(Originally from [This blog post](https://peterfalkingham.com/2018/04/29/ct-data-to-3d-print-in-15-minutes-using-free-software/).
+(Originally from [This blog post](https://peterfalkingham.com/2018/04/29/ct-data-to-3d-print-in-15-minutes-using-free-software/), where you can read with embedded YouTube videos).
 
 I produced a video of the following guide:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dnwfKBj4WTs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/dnwfKBj4WTs
 
 However, personally I have little time for video tutorials, so here’s a written version:
 
