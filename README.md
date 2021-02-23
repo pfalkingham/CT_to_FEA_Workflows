@@ -1,6 +1,6 @@
 [![FEZ](https://img.shields.io/badge/FEZ-contributor-brightgreen)](https://github.com/FEZ-Finite-Element-Zurich)
 
-# CT and FEA_Workflows
+# CT and FEA Workflows
 A collection of guides and workflows associated with model preparation and Finite Element Analysis.  Open source, or at least freely available software is preferred.
 
 The guides here have been previously posted on my website: https://peterfalkingham.com 
