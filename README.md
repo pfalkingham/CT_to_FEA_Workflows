@@ -10,3 +10,6 @@ The guides here have been previously posted on my website: https://peterfalkingh
 ## [CT Scan to 3D Print in 15 minutes](https://github.com/pfalkingham/CT_to_FEA_Workflows/blob/main/CTScan_To_3d_Print.md)
 
 
+# Useful links:
+
+## [Selection of Free CT Segmentation software packages - last updated 2019](https://peterfalkingham.com/2019/02/18/free-software-for-ct-segmentation-2019/)
