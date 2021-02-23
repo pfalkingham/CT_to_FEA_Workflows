@@ -5,6 +5,5 @@ A collection of guides and workflows associated with model preparation and Finit
 
 The guides here have been previously posted on my website: https://peterfalkingham.com 
 
-## Segmenting with 3D Slicer
-https://github.com/pfalkingham/CT_to_FEA_Workflows/blob/main/Segmenting_with_Slicer.md
+## [Segmenting with 3D Slicer](https://github.com/pfalkingham/CT_to_FEA_Workflows/blob/main/Segmenting_with_Slicer.md)
 
