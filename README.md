@@ -7,3 +7,6 @@ The guides here have been previously posted on my website: https://peterfalkingh
 
 ## [Segmenting with 3D Slicer](https://github.com/pfalkingham/CT_to_FEA_Workflows/blob/main/Segmenting_with_Slicer.md)
 
+## [CT Scan to 3D Print in 15 minutes](https://github.com/pfalkingham/CT_to_FEA_Workflows/blob/main/CTScan_To_3d_Print.md)
+
+
